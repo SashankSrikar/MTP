@@ -1,0 +1,5 @@
+Using QA parameters for Execution
+
+db_name=MTP_QA
+server_name=OAK
+user_name=SHOLMES
