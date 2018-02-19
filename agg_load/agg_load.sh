@@ -13,6 +13,12 @@ else
 	echo "Invalid Environment"
 fi
 
+echo "Loading Agg Dimensional Tables started"
+
+sleep 2
+
+echo "Loading Agg Dimensional Tables completed"
+
 echo "Loading Agg Tables started"
 
 sleep 5
