@@ -1,0 +1,5 @@
+Using UAT parameters for Execution
+
+db_name=MTP_UAT
+server_name=FIR
+user_name=SHOLMES
